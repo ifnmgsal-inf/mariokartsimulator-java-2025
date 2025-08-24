@@ -97,10 +97,15 @@
   </li>
 </ul>
 
-<b>Condição de vitória:</b>
+<b>🏆 Condição de vitória:</b>
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
 
-<br>
+<h3>----</h3>
+
+<h3>📋 Plano de Atividades:</h3>
+<a href="./activities.md">Link para as atividades a serem desenvolvidas</a>
+
+<h3>----</h3>
 <p>Inspired by <a href="https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart">formacao-nodejs/03-projeto-mario-kart</a></p>
