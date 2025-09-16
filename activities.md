@@ -15,9 +15,17 @@ As atividades devem ser implementadas na ordem em que aparecem neste plano. Os a
 - [ ] Os atributos do TAD de personagens devem ser privados.
 - [ ] Um personagem não pode competir contra ele mesmo. Se o usuário violar esta regra, o sistema deve exibir mensagem de erro correspondente e solicitar que outro personagem seja selecionado para ser o jogador 2.
 - [ ] Durante a seleção dos jogadores, o usuário deve poder também cancelar e terminar o jogo, sem selecionar os jogadores.   
-- [ ] O programa deve exibir na tela quais foram os personagens selecionados, e quais são suas caracterísaticas.
+- [ ] O programa deve exibir na tela quais foram os personagens selecionados, e quais são suas características.
 - [ ] Deve-se utilizar try-with-resources para gerenciar o objeto do tipo Scanner.
 - [ ] Deve-se fazer o devido tratamento de quaisquer exceções que possam ser lançadas. 
 
 ## Grupo 02 de Atividades 
+- [ ] Criar repetição para as 5 rodadas.
+- [ ] Determinar, por sorteio, qual tipo de pista em cada rodada.
+- [ ] Em cada rodada, os jogadores devem simular o lançamento de um dado (número entre 1 e 6). Esse valor será usado posteriormente para calcular quem foi o vencedor da rodada. Para esse sorteio, reutilize o método que sorteia o tipo de pista.
+
+### Critérios de Aceitação do Grupo 02 de Atividades 
+- [ ] Programa exibe, para cada rodada, qual o tipo de pista e qual foi o valor que cada jogador tirou no dado.
+
+## Grupo 03 de Atividades
 A definir
