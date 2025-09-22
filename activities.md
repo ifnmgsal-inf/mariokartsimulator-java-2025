@@ -27,5 +27,7 @@ As atividades devem ser implementadas na ordem em que aparecem neste plano. Os a
 ### Critérios de Aceitação do Grupo 02 de Atividades 
 - [ ] Programa exibe, para cada rodada, qual o tipo de pista e qual foi o valor que cada jogador tirou no dado.
 
-## Grupo 03 de Atividades
-A definir
+## Grupo 03 de Atividades (etapa final)
+- [ ] Programa exibe, para cada rodada, quem foi o vencedor, se houver, e quantos pontos cada um fez.
+- [ ] Acumular a pontuação de cada jogador, a cada rodada.
+- [ ] Exibir resultado final da corrida após a última rodada.
