@@ -9,7 +9,7 @@ As atividades devem ser implementadas na ordem em que aparecem neste plano. Os a
 - [ ] Criar método que pede para o usuário indicar quais serão os dois personagens que irão competir.
 - [ ] Criar instâncias dos dois objetos selecionados no item anterior, com os respectivos valores para seus atributos.
 
-### Critérios de Aceitação do Grupo 01 de Atividades 
+### Critérios de Aceitação
 
 - [ ] Todas as classes utilizadas devem estar com a documentação padrão (descrição e nome dos autores).
 - [ ] Os atributos do TAD de personagens devem ser privados.
@@ -24,10 +24,12 @@ As atividades devem ser implementadas na ordem em que aparecem neste plano. Os a
 - [ ] Determinar, por sorteio, qual tipo de pista em cada rodada.
 - [ ] Em cada rodada, os jogadores devem simular o lançamento de um dado (número entre 1 e 6). Esse valor será usado posteriormente para calcular quem foi o vencedor da rodada. Para esse sorteio, reutilize o método que sorteia o tipo de pista.
 
-### Critérios de Aceitação do Grupo 02 de Atividades 
+### Critérios de Aceitação
 - [ ] Programa exibe, para cada rodada, qual o tipo de pista e qual foi o valor que cada jogador tirou no dado.
 
 ## Grupo 03 de Atividades (etapa final)
-- [ ] Programa exibe, para cada rodada, quem foi o vencedor, se houver, e quantos pontos cada um fez.
 - [ ] Acumular a pontuação de cada jogador, a cada rodada.
+
+### Critérios de Aceitação
+- [ ] Exibir, para cada rodada, quem foi o vencedor, se houver, e quantos pontos cada um fez.
 - [ ] Exibir resultado final da corrida após a última rodada.
